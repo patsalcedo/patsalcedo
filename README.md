@@ -1,5 +1,5 @@
 ### Hello! 👋
-Welcome to my GitHub :octocat:! My name is Patricia Salcedo. I am currently a fourth-year undergraduate student at [AUT University](https://www.aut.ac.nz/), studying the Bachelor of Engineering (Hons.), specialising in Software Engineering and minoring in Networks & Security.
+Welcome to my GitHub :octocat:! My name is Patricia Salcedo. I have recently completed my fourth and final undergraduate year at [AUT University](https://www.aut.ac.nz/) studying the Bachelor of Engineering (Hons.), where I specialised in Software Engineering and minored in Networks & Security.
 
 I'm interested in learning as much as I can in pretty much any aspect of software engineering!
 I also have a keen interest in game development, particularly in terms of game design 🎮

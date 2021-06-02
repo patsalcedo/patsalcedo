@@ -1,5 +1,5 @@
 ### Hello! 👋
-Welcome to my GitHub :octocat:! My name is Patricia Salcedo. I'm currently a Junior ![image]({https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white}) Developer at [Chelmer Limited](https://chelmer.co/).
+Welcome to my GitHub :octocat:! My name is Patricia Salcedo. I'm currently a Junior ![Java]({https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white}) Developer at [Chelmer Limited](https://chelmer.co/).
 
 I'm interested in learning as much as I can in pretty much any aspect of software engineering! The long-term goal is to become a full-stack developer.
 I also love learning about game design 🎮 and would love to get into the AR/VR space someday.

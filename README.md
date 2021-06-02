@@ -8,7 +8,7 @@ I also love learning about game design 🎮 and would love to get into the AR/VR
 - 😄 Pronouns: she/her
 - 👩🏽‍💻 Currently learning: JavaScript + HTML/CSS, AWS Cloud Certification training
 - ⚡ Fun fact: my favourite food is fried chicken 🍗
-- 📫 How to reach me: ![LinkedIn]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white} https://www.linkedin.com/in/patriciasalcedo/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/patriciasalcedo/)
 
 <!--
 **patsalcedo/patsalcedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

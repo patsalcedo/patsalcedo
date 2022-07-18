@@ -1,9 +1,7 @@
 ### Hello! 👋
-Welcome to my GitHub :octocat:! My name is Patricia Salcedo. I'm currently a Junior Java Developer at [Chelmer Limited](https://chelmer.co/).
+Welcome to my GitHub :octocat:! My name is Patricia Salcedo. I'm currently a Java Developer at [Chelmer Limited](https://chelmer.co/).
 
 I'm interested in learning as much as I can in pretty much any aspect of software engineering! The long-term goal is to become a full-stack developer. Since I work as a backend developer by day, at night (and weekends!) I plan to improve my front-end development and app development skills. 
-
-I am currently taking part in the #100DaysOfCode challenge, learning how to use Flutter!
 
 I also love learning about game design 🎮.
 
